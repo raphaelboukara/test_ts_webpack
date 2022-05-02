@@ -1,0 +1,15 @@
+{
+  "name": "test_ts_webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.6.4",
+    "webpack": "^5.72.0"
+  }
+}
